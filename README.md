@@ -26,10 +26,9 @@ This section aims to equip students with a proactive and structured approach to 
 - Career Goals: Where do you see yourself in 5 years? What are your long-term career aspirations?
 - Resources for Self-Assessment:
   - Online Personality Tests: Myers-Briggs Type Indicator (MBTI), DISC assessment. (Explain that these are just tools and shouldn't be taken as absolute truths.)
-  - Skill Assessment Platforms: Platforms like HackerRank, Codility, and Topcoder can help assess technical skills.<sup>3</sup>
+  - Skill Assessment Platforms: Platforms like HackerRank, Codility, and Topcoder can help assess technical skills.
   - Career Counseling: Encourage students to utilize career services at SIES GST College.
   - Reflecting on Experiences: Encourage students to reflect on past projects, internships, and extracurricular activities to identify their strengths and weaknesses.
-- Activity: A quick in-class activity could be to have students jot down 3 of their key strengths and 2 areas they want to improve.
 
 3\. Skill Development:
 
